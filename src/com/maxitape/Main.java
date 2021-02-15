@@ -9,4 +9,10 @@ public class Main {
 
         System.out.println("Commit 3");
     }
+
+    public static int C() {
+        int a = 2;
+        int b = 3;
+        return a + b;
+    }
 }
